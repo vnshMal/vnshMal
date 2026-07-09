@@ -532,19 +532,19 @@ Artificial Intelligence • Cybersecurity • Backend Engineering • Distribute
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/vansh_mallikkk/">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+<a href="https://www.geeksforgeeks.org/user/vanshman1t9/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/vansh_119525">
 <img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://www.codechef.com/users/vansh_malikkkk">
 <img src="https://img.shields.io/badge/CodeChef-Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -556,9 +556,9 @@ Artificial Intelligence • Cybersecurity • Backend Engineering • Distribute
 
 <div align="center">
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=vnshMal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true"/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnshMal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -566,7 +566,7 @@ Artificial Intelligence • Cybersecurity • Backend Engineering • Distribute
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://streak-stats.demolab.com?user=vnshMal&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -594,7 +594,7 @@ Artificial Intelligence • Cybersecurity • Backend Engineering • Distribute
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vnshMal&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -654,7 +654,7 @@ Artificial Intelligence • Cybersecurity • Backend Engineering • Distribute
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7C3AED&line=8B5CF6&point=A855F7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vnshMal&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7C3AED&line=8B5CF6&point=A855F7"/>
 
 </div>
 
@@ -665,7 +665,7 @@ Artificial Intelligence • Cybersecurity • Backend Engineering • Distribute
 <div align="center">
 
 <p>
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/vnshMal/vnshMal/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 </div>
@@ -720,8 +720,8 @@ open_to:
 <img src="https://img.shields.io/badge/LinkedIn-Vansh%20Malik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/vnshMal">
+<img src="https://img.shields.io/badge/GitHub-vnshMal-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO_URL">
